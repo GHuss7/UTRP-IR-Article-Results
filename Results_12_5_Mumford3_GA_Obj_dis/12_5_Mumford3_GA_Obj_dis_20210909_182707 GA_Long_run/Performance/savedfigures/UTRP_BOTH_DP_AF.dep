@@ -1,0 +1,4 @@
+savedfigures/UTRP_BOTH_DP_AF.pdf: ../Overall_Pareto_set.csv
+savedfigures/UTRP_BOTH_DP_AF.pdf: ../Run_1/Pop_initial_set.csv
+savedfigures/UTRP_BOTH_DP_AF.pdf: Overall_Pareto_set_SA.csv
+savedfigures/UTRP_BOTH_DP_AF.pdf: Routes_initial_set_SA.csv
